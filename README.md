@@ -2,6 +2,14 @@
 
 Predicting NYC taxi trip duration from 1.4 million real trips using exploratory analysis, thoughtful feature engineering, and gradient boosting.
 
+## 🌐 Live Demo
+
+**[Try the app here](https://nyc-taxi-trip-duration-bixwbbh8fshzzwy8nkdoet.streamlit.app)**
+
+(Note: App may take 10-15 seconds to wake up if idle)
+
+---
+
 ## 🎯 Key Findings
 
 - **Thursday 4pm is the worst time** — 35% slower than Sunday morning for the same route
